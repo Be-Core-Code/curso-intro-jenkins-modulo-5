@@ -1,4 +1,4 @@
-# Diapositivas del Curso de Introducción a Jenkins - Módulo 6: Testing
+# Diapositivas del Curso de Introducción a Jenkins - Módulo 6: Tests y otras herramientas
 
 ## Índice
 

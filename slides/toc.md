@@ -1,6 +1,6 @@
 #### Contenido módulo 6
 
-#### Testing
+#### Tests y otras herramientas
 
 * [Introducción](/#introduction)
 * ...
@@ -9,6 +9,6 @@ notes:
 
 Los objetivos de este módulo son:
 
-* Añadir sencillos tests unitarios a nuestro código
+* Añadir sencillos tests unitarios, generación de documentación y análisis estático de código
+* Incluir la ejecución de estas herramientas dentro de los `Pipelines`
 * Ejecutar los tests en Jenkins y ver los resultados
-* Incluir la ejecución de tests dentro de los Pipelines
