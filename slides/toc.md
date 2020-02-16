@@ -5,6 +5,7 @@
 * [Introducción](/#introduction)
 * [Documentación de código](/#doxygen)
 * [Análisis estático de código](/#cppcheck)
+* [Warnings Plugin](/#warnings)
 * ...
  
 notes:
