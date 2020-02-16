@@ -26,8 +26,6 @@ ejecutar todas estas herramientas cada vez que quieren subir código al reposito
 * Cppcheck: Análisis estático de código
 * Warnings Plugin - Next Generation: muestra los warnings de nuestro código
 * Cppunit: Test unitarios
-* Gcov: Cobertura de tests
-* Gprof: Profiling
 
 ^^^^^^
 
