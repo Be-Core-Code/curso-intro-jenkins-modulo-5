@@ -2,6 +2,11 @@
 
 ## Índice
 
+* Introducción
+* Documentación de código
+* Análisis estático de código
+* Warnings Plugin
+* Tests unitarios
 
 ## Visualización
 
