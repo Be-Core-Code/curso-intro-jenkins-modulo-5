@@ -4,6 +4,7 @@
 
 * [Introducción](/#introduction)
 * [Documentación de código](/#doxygen)
+* [Análisis estático de código](/#cppcheck)
 * ...
  
 notes:
