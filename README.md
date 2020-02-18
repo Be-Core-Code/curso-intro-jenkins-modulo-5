@@ -1,4 +1,4 @@
-# Diapositivas del Curso de Introducción a Jenkins - Módulo 6: Tests y otras herramientas
+# Diapositivas del Curso de Introducción a Jenkins - Módulo 5: Tests y otras herramientas
 
 ## Índice
 
@@ -13,7 +13,7 @@
 Para ver las diapositivas:
 
 ```bash
-> docker run --rm -p "8000:8000" becorecode/curso-intro-jenkins-modulo-6:latest
+> docker run --rm -p "8000:8000" becorecode/curso-intro-jenkins-modulo-5:latest
 ```
 
 Una vez levantado el contenedor, accede con un navegador web a `http://localhost:8000`
@@ -54,7 +54,7 @@ Finalmente, levantamos el contenedor:
 > docker-compose up
 ```
 
-Puedes acceder a las diapositivas en `localhost:8006`. Haz los cambios que necesites en las diapositovas situadas en la carpeta
+Puedes acceder a las diapositivas en `localhost:8005`. Haz los cambios que necesites en las diapositovas situadas en la carpeta
 `slides/` y recarga el navegador para ver el resultado.
 
 Si quieres cambiar el puerto, puedes detener los servicios con `docker-compose down`, editar el fichero 

@@ -1,4 +1,4 @@
-#### Contenido módulo 6
+#### Contenido módulo 5
 
 #### Tests y otras herramientas
 
@@ -7,7 +7,7 @@
 * [Análisis estático de código](/#cppcheck)
 * [Warnings Plugin](/#warnings)
 * [Tests unitarios](/#unit_tests)
- 
+
 notes:
 
 Los objetivos de este módulo son:
